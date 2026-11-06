@@ -1,0 +1,7 @@
+id = "slick-theme"
+name = "Slick"
+version = "0.1.0"
+schema_version = 1
+authors = ["Slick"]
+description = "A cyberpunk theme in any colour you want. Dark and light variants with fixed contrast and balance."
+repository = "https://github.com/slick-theme/zed"
